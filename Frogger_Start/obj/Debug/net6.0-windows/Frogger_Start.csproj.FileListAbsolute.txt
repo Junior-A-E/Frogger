@@ -1,0 +1,92 @@
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_background.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_dozer.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_fly.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_frog.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_gameover_screen.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_racecar.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_start_screen.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_truck.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_win_screen.xnb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.exe
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.deps.json
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.runtimeconfig.json
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.pdb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.AssemblyReference.cache
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.AssemblyInfoInputs.cache
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.AssemblyInfo.cs
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.CoreCompileInputs.cache
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.CopyComplete
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\refint\Frogger_Start.dll
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.pdb
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.genruntimeconfig.cache
+C:\Users\Gerke\source\repos\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\ref\Frogger_Start.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_background.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_dozer.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_fly.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_frog.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_gameover_screen.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_racecar.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_start_screen.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_truck.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Content\spr_win_screen.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.exe
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.deps.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.runtimeconfig.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Frogger_Start.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.AssemblyReference.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.AssemblyInfoInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.AssemblyInfo.cs
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.CoreCompileInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.csproj.CopyComplete
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\refint\Frogger_Start.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\Frogger_Start.genruntimeconfig.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\Frogger_Start\Frogger_Start\Frogger_Start\obj\Debug\net6.0-windows\ref\Frogger_Start.dll
